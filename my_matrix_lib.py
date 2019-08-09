@@ -18,7 +18,7 @@ Matrix types are:
     "zeros": all zero matrix
     "gauss_random": random normal distribution values with mu=0 and sigma=columns ** (-1/2)
 
-Things that should be added in the future for neuro-evolution maybe in a subclass called neuro:
+Things that should be added in the future for neuro-evolution maybe in a subclass called neuro-evol:
     def crossover
     def mutation
     def inverse
